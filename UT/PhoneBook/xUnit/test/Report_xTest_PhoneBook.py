@@ -2,7 +2,7 @@ from unittest import TestLoader, TestSuite
 
 from HtmlTestRunner import HTMLTestRunner
 
-from xUnit.src.xTest_PhoneBook import Test_PhoneBooth
+from xUnit.test.xTest_PhoneBook import Test_PhoneBooth
 
 phonebook_tests = TestLoader().loadTestsFromTestCase(Test_PhoneBooth)
 
