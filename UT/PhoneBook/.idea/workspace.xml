@@ -21,7 +21,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="PhoneBook.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xUnit/PhoneBook.py">
+        <entry file="file://$PROJECT_DIR$/xUnit/src/PhoneBook.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
               <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
@@ -31,7 +31,7 @@
         </entry>
       </file>
       <file leaf-file-name="Report_xTest_PhoneBook.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/xUnit/Report_xTest_PhoneBook.py">
+        <entry file="file://$PROJECT_DIR$/xUnit/src/Report_xTest_PhoneBook.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
@@ -43,13 +43,11 @@
         </entry>
       </file>
       <file leaf-file-name="xTest_PhoneBook.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xUnit/xTest_PhoneBook.py">
+        <entry file="file://$PROJECT_DIR$/xUnit/src/xTest_PhoneBook.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="551">
               <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,6 +75,7 @@
         <option value="$PROJECT_DIR$/pytesting/PhoneBook2.py" />
         <option value="$PROJECT_DIR$/pytesting/PhoneBook.py" />
         <option value="$PROJECT_DIR$/pytesting/pytest_PhoneBook.py" />
+        <option value="$PROJECT_DIR$/xUnit/src/Report_xTest_PhoneBook.py" />
       </list>
     </option>
   </component>
@@ -115,6 +114,12 @@
               <item name="PhoneBook" type="462c0819:PsiDirectoryNode" />
               <item name="xUnit" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PhoneBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhoneBook" type="462c0819:PsiDirectoryNode" />
+              <item name="xUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -125,12 +130,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/pytest" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xUnit/src" />
       <recent name="$PROJECT_DIR$/pytest" />
       <recent name="$PROJECT_DIR$/xUnit" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pytest" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -158,12 +164,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PhoneBook" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xUnit/Report_xTest_PhoneBook.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xUnit/src/Report_xTest_PhoneBook.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Unittests for xUnit.xTest_PhoneBook.Test_PhoneBooth" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for xUnit.src.xTest_PhoneBook.Test_PhoneBooth" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -174,7 +180,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PhoneBook" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;xUnit.xTest_PhoneBook.Test_PhoneBooth&quot;" />
+      <option name="_new_target" value="&quot;xUnit.src.xTest_PhoneBook.Test_PhoneBooth&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="Unittests for xUnit.xTest_PhoneBook.Test_PhoneBooth" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -228,7 +234,7 @@
     <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.pytest_PhoneBook" />
       <item index="1" class="java.lang.String" itemvalue="Python.Report_xTest_PhoneBook" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for xUnit.xTest_PhoneBook.Test_PhoneBooth" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for xUnit.src.xTest_PhoneBook.Test_PhoneBooth" />
       <item index="3" class="java.lang.String" itemvalue="Python.pytest_PhoneBook (1)" />
     </list>
     <recent_temporary>
@@ -236,8 +242,8 @@
         <item index="0" class="java.lang.String" itemvalue="Python.Report_xTest_PhoneBook" />
         <item index="1" class="java.lang.String" itemvalue="Python.pytest_PhoneBook (1)" />
         <item index="2" class="java.lang.String" itemvalue="Python.pytest_PhoneBook" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for xUnit.xTest_PhoneBook.Test_PhoneBooth" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for xUnit.xTest_PhoneBook.Test_PhoneBooth" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for xUnit.src.xTest_PhoneBook.Test_PhoneBooth" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for xUnit.src.xTest_PhoneBook.Test_PhoneBooth" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +353,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xUnit/Report_xTest_PhoneBook.py">
+    <entry file="file://$PROJECT_DIR$/xUnit/src/Report_xTest_PhoneBook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
@@ -357,7 +363,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xUnit/PhoneBook.py">
+    <entry file="file://$PROJECT_DIR$/xUnit/src/PhoneBook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
@@ -365,7 +371,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xUnit/Report_xTest_PhoneBook.py">
+    <entry file="file://$PROJECT_DIR$/xUnit/src/Report_xTest_PhoneBook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
@@ -385,17 +391,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xUnit/xTest_PhoneBook.py">
+    <entry file="file://$PROJECT_DIR$/xUnit/src/xTest_PhoneBook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="34" column="60" lean-forward="true" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xUnit/PhoneBook.py">
+    <entry file="file://$PROJECT_DIR$/xUnit/src/PhoneBook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -425,7 +429,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xUnit/PhoneBook.py">
+    <entry file="file://$PROJECT_DIR$/xUnit/src/PhoneBook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
@@ -433,17 +437,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xUnit/xTest_PhoneBook.py">
+    <entry file="file://$PROJECT_DIR$/xUnit/src/xTest_PhoneBook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xUnit/Report_xTest_PhoneBook.py">
+    <entry file="file://$PROJECT_DIR$/xUnit/src/Report_xTest_PhoneBook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
