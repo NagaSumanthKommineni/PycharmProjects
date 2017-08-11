@@ -1,6 +1,6 @@
 import unittest
 
-from xUnit.src.PhoneBook import PhoneBook
+from ..src.PhoneBook import PhoneBook
 
 
 class Test_PhoneBooth(unittest.TestCase):
@@ -28,10 +28,12 @@ class Test_PhoneBooth(unittest.TestCase):
     def test_to_check_skip_report(self):
         pass
 
-    def test_to_check_error_report(self):
-        self.phonebook.add("abc", 123, "def")
+#    def test_to_check_error_report(self):
+#        self.phonebook.add("abc", 123, "def")
 
-    def test_to_check_failure_report(self):
-        self.phonebook.add("mark", 9785642310)
-        self.assertEqual(978, self.phonebook.lookup("mark"))
+#    def test_to_check_failure_report(self):
+#        self.phonebook.add("mark", 9785642310)
+#        self.assertEqual(978, self.phonebook.lookup("mark"))
 
+# if __name__ == '__main__':
+#    unittest.main(Test_PhoneBooth)
