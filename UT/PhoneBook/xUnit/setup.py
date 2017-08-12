@@ -143,9 +143,9 @@ setup(
     packages=find_packages('src'),
     include_package_data=True,
 
-#    entry_points={
-#        'console_scripts': [
-#            'hello_world = foo.hello:main',
-#        ],
-#    }
+    entry_points={
+        'console_scripts': [
+            'xUnit = src.__main__:main'
+        ]
+    }
 )
